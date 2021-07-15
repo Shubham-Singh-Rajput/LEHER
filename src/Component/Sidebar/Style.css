@@ -1,0 +1,11 @@
+.sidebar{
+    position: absolute;
+    width: 224px;
+    height: 625px;
+    left: 0px;
+    top: 0px;
+
+/* Space Grey */
+
+background: #030303;
+}

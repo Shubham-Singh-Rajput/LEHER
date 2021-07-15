@@ -1,0 +1,111 @@
+.createplaylist{
+    position: absolute;
+width: 12px;
+height: 12px;
+left: 35px;
+top: 354px;
+
+}
+.rec{
+    position: absolute;
+width: 32px;
+height: 32px;
+left: 25px;
+top: 344px;
+
+background: #A4A4A4;
+}
+
+.text{
+    position: absolute;
+width: 115px;
+height: 18px;
+left: 77px;
+top: 351px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+.first{
+    position: absolute;
+width: 137px;
+height: 18px;
+left: 19px;
+top: 383px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 6px;
+}
+.second{
+    top:404px;
+    left: 18px;
+}
+.third{
+    top:424px;
+    width:151px;
+    left:18px
+}
+.four{
+    top:444px;
+    width:151px;
+    left: 19px;
+}
+.five{
+    top:464px;
+    width:151px;
+    left: 19px;
+}
+.six{
+    top:484px;
+    width:151px;
+    left: 19px;
+}
+.seven{
+    top:504px;
+    width:151px;
+    left: 19px;
+}
+.eight{
+    top:524px;
+    width:151px;
+    left: 19px;
+}
+.nine{
+    top:544px;
+    width:151px;
+    left: 19px;
+}
+.ten{
+    top:564px;
+    width:170px;
+    left: 19px;
+}

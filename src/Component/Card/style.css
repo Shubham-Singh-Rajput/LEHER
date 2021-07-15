@@ -1,0 +1,64 @@
+.cardTop{
+    position: absolute;
+    top: 179px;
+    left: 27px;
+    width: 94%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    background-color: black;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    margin: 16px;
+    text-align: center;
+    height: 273px;
+    width: 203px;
+  }
+
+  .cardImage{
+      height: 207px;
+      width: 207px;
+      
+  }
+
+  .one{
+    width: 223px;
+    height: 35px;
+    left: 34px;
+    
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* White */
+    
+    color: #FFFFFF;
+  }
+  .two{
+    width: 370px;
+    height: 18px;
+    left: 34px;
+    top: 543px;
+    
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    /* White */
+    
+    color: #FFFFFF;
+    
+    opacity: 0.6;
+  }

@@ -1,0 +1,21 @@
+.playlist{
+    position: absolute;
+width: 75px;
+height: 15px;
+left: 24px;
+top: 313px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+/* White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}

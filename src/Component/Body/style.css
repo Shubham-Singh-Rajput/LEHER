@@ -1,0 +1,106 @@
+/* Container */
+
+.container{
+position: absolute;
+height: 625px;
+left: 224px;
+right: 0px;
+top: 0px;
+overflow-y: scroll;
+
+/* Gradient */
+
+background: linear-gradient(113.83deg, #121212 0.59%, #121212 99.74%)}
+.circle2{
+    position: absolute;
+width: 32px;
+height: 32px;
+left: 32px;
+top: 32px;
+border-radius: 50%;
+/* Space Grey */
+
+background: #030303;
+}
+.vector{
+    position: absolute;
+left: 3.75%;
+right: 20.46%;
+top: 6.2%;
+bottom: 2.5%;
+
+/* White */
+
+
+opacity: 0.7;
+}
+.circle3{
+    left: 72px;
+}
+.vector2{
+    transform: rotate(180deg);
+    left: 84.27px;
+}
+.normal{
+    position: absolute;
+left: 862px;
+right: 0px;
+top: 32px;
+bottom: 0px;
+
+/* White */
+
+background: #FFFFFF;
+opacity: 0.08;
+border-radius: 27px;
+}
+.profileName{
+    position: absolute;
+width: 147px;
+height: 18px;
+left: 911px;
+top: 43px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+.profilepic{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 876px;
+top: 40px;
+}
+.firstPlaylist{
+    position: absolute;
+    width: 259px;
+    height: 35px;
+    left: 34px;
+    top: 120px;
+    
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 35px;
+    
+    /* White */
+    
+    color: #FFFFFF;
+}
+    .parentCard{
+        position: absolute;
+    top: 201px;
+    left: 14px
+    }

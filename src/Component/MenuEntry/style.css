@@ -1,0 +1,104 @@
+.icons{
+position: absolute;
+left: 7.3%;
+right: 7.3%;
+top: 2.5%;
+bottom: 2.5%;
+
+/* White */
+
+/* background: #FFFFFF; */
+}
+.menuname{
+position: absolute;
+width: 48px;
+height: 18px;
+left: 55px;
+top: 1px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* White */
+
+color: #FFFFFF;
+}
+.menu{
+    position: absolute;
+width: 200px;
+height: 40px;
+left: 0px;
+top: 124px;
+}
+
+.disableicon{
+    position: absolute;
+    left: 7.32%;
+    right: 6.32%;
+    top: 73.5%;
+    bottom: 2.5%;
+    Width :13.98px;
+    Height :15.2px;
+    /* White */
+    
+    /* color: #FFFFFF; */
+    opacity: 0.6;
+}
+.disableText{
+    position: absolute;
+    width: 74px;
+    height: 18px;
+    left: 55px;
+    top: 28px;
+    
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    /* White */
+    
+    color: #FFFFFF;
+    
+    opacity: 0.5;
+}
+.bibo{
+    position: absolute;
+left: 8.5%;
+right: 2.5%;
+top: 55.5px;
+bottom: 3.63%;
+
+/* White */
+
+opacity: 0.6;
+}
+.Bibliothèque{
+    position: absolute;
+width: 81px;
+height: 18px;
+left: 55px;
+top: 54px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* White */
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
